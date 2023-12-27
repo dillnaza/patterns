@@ -43,6 +43,7 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/yourusername/java-design-patterns.git
 cd java-design-patterns
+```
 
 ## Open the Project in IntelliJ IDEA
 
