@@ -41,7 +41,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/java-design-patterns.git
+git clone https://github.com/dillnaza/java-design-patterns.git
 ```
 
 ## Contact
