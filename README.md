@@ -11,6 +11,7 @@ Explore the folders to find detailed implementations and explanations for each d
    - Factory Method
    - Abstract Factory
    - Builder
+   - Prototype
 
 2. **Structural Patterns**
    - Adapter
