@@ -14,20 +14,26 @@ Explore the folders to find detailed implementations and explanations for each d
    - Prototype
 
 2. **Structural Patterns**
-   - Adapter
-   - Decorator
-   - Facade
-   - Composite
+   - Adapter (Адаптер)
+   - Bridge (Мост)
+   - Composite (Компоновщик)
+   - Decorator (Декоратор)
+   - Facade (Фасад)
+   - Flyweight (Легковес)
+   - Proxy (Заместитель)
 
 3. **Behavioral Patterns**
-   - Observer
-   - Strategy
-   - Command
-   - Chain of Responsibility
-
-4. **Other Patterns**
-   - MVC (Model-View-Controller)
-   - DAO (Data Access Object)
+   - Chain of Responsibility (Цепочка обязанностей)
+   - Command (Команда)
+   - Interpreter (Интерпретатор)
+   - Iterator (Итератор)
+   - Mediator (Посредник)
+   - Memento (Хранитель)
+   - Observer (Наблюдатель)
+   - State (Состояние)
+   - Strategy (Стратегия)
+   - Template (Шаблонный метод)
+   - Visitor (Посетитель)
 
 ## Running the Example Program
 
