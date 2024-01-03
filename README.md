@@ -14,7 +14,7 @@ Explore the folders to find detailed implementations and explanations for each d
    - Prototype
 
 2. **Structural Patterns**
-   - adapter
+   - Adapter
    - Decorator
    - Facade
    - Composite
