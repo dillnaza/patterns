@@ -7,7 +7,7 @@ public class StockExchange extends Program{
 
     @Override
     public void developProgram() {
-        System.out.println("Stock Exchange development in progress..");
+        System.out.println("Stock Exchange development in progress...");
         developer.writeCode();
     }
 }

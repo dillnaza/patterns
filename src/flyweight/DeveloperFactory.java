@@ -11,11 +11,11 @@ public class DeveloperFactory {
         if (developer == null) {
             switch (specialty) {
                 case "java" -> {
-                    System.out.println("Hiring Java developer..");
+                    System.out.println("Hiring Java developer...");
                     developer = new JavaDeveloper();
                 }
                 case "c++" -> {
-                    System.out.println("Hiring C++ developer..");
+                    System.out.println("Hiring C++ developer...");
                     developer = new CppDeveloper();
                 }
             }
