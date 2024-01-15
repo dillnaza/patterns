@@ -7,6 +7,7 @@ public class ProgramLogger {
         if (programLogger == null) {
             programLogger = new ProgramLogger();
         }
+
         return programLogger;
     }
 

@@ -20,8 +20,8 @@ public class Website {
     @Override
     public String toString() {
         return "Website{" +
-                "name='" + name + '\'' +
-                ", Cms=" + Cms +
+                "name='" + name +
+                ", cms=" + Cms +
                 ", price=" + price +
                 '}';
     }

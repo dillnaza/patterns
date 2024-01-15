@@ -18,12 +18,16 @@ public class Main {
         System.out.println("1. Админ ");
         System.out.println("2. Менеджер");
         System.out.println("3. Клиент");
+
         int role = scanner.nextInt();
+
         System.out.println("Выберите команду: ");
         System.out.println("1. Добавить продукт ");
         System.out.println("2. Изменить продукт");
         System.out.println("3. Удалить продукт");
+
         int command = scanner.nextInt();
+
         if (role == 1) {
             CreateAccess(accessA, command);
         } else if (role == 2) {
