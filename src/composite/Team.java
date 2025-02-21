@@ -16,7 +16,6 @@ public class Team {
 
     public void createProject() {
         System.out.println("Team creates project...\n");
-
         for(Developer developer:developers){
             developer.writeCode();
         }

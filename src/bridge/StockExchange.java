@@ -1,6 +1,6 @@
 package bridge;
 
-public class StockExchange extends Program{
+public class StockExchange extends Program {
     public StockExchange(Developer developer) {
         super(developer);
     }

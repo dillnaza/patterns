@@ -1,7 +1,6 @@
 package factory;
 
 public class User implements Access{
-
     @Override
     public void AddProduct() {
         System.out.println("User cant add product");

@@ -11,6 +11,7 @@ public class BugTracker {
         System.out.println("Spring is active.");
         activeSprint = true;
     }
+
     public void finishSprint(){
         System.out.println("Sprint is not active.");
         activeSprint = false;

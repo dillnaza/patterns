@@ -12,7 +12,6 @@ public class Director {
         builder.buildName();
         builder.buildCms();
         builder.buildPrice();
-
         return builder.getWebsite();
     }
 }

@@ -2,13 +2,12 @@ package mediator;
 
 public class Admin implements User {
     Chat chat;
+    String name;
 
     public Admin(Chat chat, String name) {
         this.chat = chat;
         this.name = name;
     }
-
-    String name;
 
     public String getName() {
         return name;

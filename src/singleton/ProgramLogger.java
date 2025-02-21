@@ -7,13 +7,11 @@ public class ProgramLogger {
         if (programLogger == null) {
             programLogger = new ProgramLogger();
         }
-
         return programLogger;
     }
 
-    private ProgramLogger(){
+    private ProgramLogger() {}
 
-    }
     public void addLogInfo(String logInfo){
         logFile += logInfo + "\n";
     }
