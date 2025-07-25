@@ -1,18 +1,14 @@
 # Java Design Patterns
-
 This repository contains Java implementations of various design patterns, each organized into separate folders. Additionally, a simple program showcasing the usage of these patterns is included.
 
 ## Available Design Patterns
-
 Explore the folders to find detailed implementations and explanations for each design pattern:
-
 1. **Creational Patterns**
    - Singleton
    - Factory Method
    - Abstract Factory
    - Builder
    - Prototype
-
 2. **Structural Patterns**
    - Adapter (Адаптер)
    - Bridge (Мост)
@@ -21,7 +17,6 @@ Explore the folders to find detailed implementations and explanations for each d
    - Facade (Фасад)
    - Flyweight (Легковес)
    - Proxy (Заместитель)
-
 3. **Behavioral Patterns**
    - Chain of Responsibility (Цепочка обязанностей)
    - Command (Команда)
